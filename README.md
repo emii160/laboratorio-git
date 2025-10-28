@@ -1,9 +1,6 @@
 # laboratorio-git
 esto es una prueba sofia
 esto es una prueba hecha por emily
-<<<<<<< HEAD
-test rebase emily
-=======
 test rebase emily
 
 Tarea Emily
@@ -18,4 +15,3 @@ git pull: Lo que hace es traerse los ultimos cambios desde el repositorio github
 git rebase --continue:Se utiliza durante un proceso de rebase cuando ya se resolvieron los conflictos en los archivos afectados.
 git rebase main:Se utiliza este comando para reaplicar tus commits actuales encima de otra rama (en este caso, la rama main).
 Cuando se hace git rebase y luego se usa git push origin (nombre de la rama) -f, se pone -f porque se tiene que hacer forzado.
->>>>>>> 7bd9a5f (Conceptos de la tarea)
